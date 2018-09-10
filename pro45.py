@@ -1,6 +1,6 @@
-t=int(input())
+e=int(input())
 count=0
-while(x>0):
+while(e>0):
 	count=count+1
-	t=t//10
+	e=e//10
 print(count)
